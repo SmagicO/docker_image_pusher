@@ -1,4 +1,10 @@
-nginx
-kasmweb/nginx:1.25.3
 xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
+tailscale/tailscale:latest
+gdy666/lucky:latest
+linuxserver/jackett:latest
+linuxserver/qbittorrent:latest
+oldiy/frpc:latest
+openspeedtest/latest:latest
+surveyking/surveyking:latest
+linuxserver/heimdall:latest
+linuxserver/prowlarr:latest
