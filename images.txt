@@ -8,3 +8,6 @@ openspeedtest/latest:latest
 surveyking/surveyking:latest
 linuxserver/heimdall:latest
 linuxserver/prowlarr:latest
+surveyking/surveyking:latest
+jlesage/firefox
+0nlylty/dockercopilot:ZSPACE
