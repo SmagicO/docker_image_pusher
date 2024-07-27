@@ -12,3 +12,5 @@ jlesage/firefox
 0nlylty/dockercopilot:ZSPACE
 6053537/portainer-ce
 jonnyan404/docker-ui
+dreamacro/clash
+haishanh/yacd
