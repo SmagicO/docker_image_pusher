@@ -1,6 +1,16 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+tailscale/tailscale:latest
+gdy666/lucky:latest
+linuxserver/jackett:latest
+linuxserver/qbittorrent:latest
+oldiy/frpc:latest
+openspeedtest/latest:latest
+surveyking/surveyking:latest
+linuxserver/heimdall:latest
+linuxserver/prowlarr:latest
+jlesage/firefox
+0nlylty/dockercopilot:ZSPACE
+6053537/portainer-ce
+jonnyan404/docker-ui
+dreamacro/clash
+haishanh/yacd
